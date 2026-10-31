@@ -3,7 +3,10 @@
 Code accompanying the data descriptor *"A harmonized dataset of ALK tyrosine kinase inhibitor
 potency against kinase-domain resistance variants, with variant-level clinical linkage."*
 
-The dataset itself is archived at Zenodo under
+This code is archived at Zenodo under
+**[doi:10.5281/zenodo.23837901](https://doi.org/10.5281/zenodo.23837901)** (MIT, release `v1.0.0`).
+
+The dataset itself is archived separately under
 **[doi:10.5281/zenodo.22914209](https://doi.org/10.5281/zenodo.22914209)** (CC BY 4.0). A copy of
 the potency file is included here under `data/` for convenience; Zenodo is the citable source,
 and the code refuses to run against a copy whose MD5 does not match the published one.
